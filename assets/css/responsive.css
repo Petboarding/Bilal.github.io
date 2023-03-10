@@ -699,26 +699,30 @@
 
 }
 .bg .banr-sec h2{
-    font-size: 56px;
-    line-height: 78px;
+    font-size: 53px;
+    line-height: 75px;
     font-weight: 400;
     font-family: var(--font-familyy);
 
 }
 .bg .banr-sec button{
     width: 120px;
-    height: 45px;
+    height: 48px;
     background-color: #000000;
     margin-top: 40px;
 /*   clip-path: polygon(100% 0, 97% 63%, 98% 100%, 0% 100%, 3% 66%, 0% 0%);*/
     border-radius: 07px;
 
 }
+ .bg .banr-sec button a{
+    font-size:13.5px;
+}
+
 .change-cntnt:after{
     content: '';
     animation: changetext 10s infinite linear;
     color: #00b894;
-    font-size:56px;
+    font-size:53px;
 
 }
 
@@ -934,7 +938,7 @@
     color: #ADADAD;
 }
 .proces-sec{
-    height: 1500px;
+    height: 1600px;
 }
 .proces-sec .procs-hding h1{
     color:#000000;
@@ -1025,7 +1029,7 @@
 .customer-sec .satisfd-cstm .side-2s .content{
     background-color:#FFFFFF;
     width: 380PX;
-    height: 220PX;
+    height: 240PX;
     padding: 40PX;
     box-shadow: 10px 10px  #2FC687;
     border-radius: 10PX;
@@ -1125,27 +1129,31 @@
 
 }
 .bg .banr-sec h2{
-    font-size: 48px;
-    line-height: 78px;
+    font-size: 46px;
+    line-height: 75px;
     font-weight: 400;
     font-family: var(--font-familyy);
 
 }
 .bg .banr-sec button{
     width: 115px;
-    height: 43px;
+    height: 46px;
     background-color: #000000;
     margin-top: 40px;
 /*   clip-path: polygon(100% 0, 97% 63%, 98% 100%, 0% 100%, 3% 66%, 0% 0%);*/
     border-radius: 07px;
 
 }
+ .bg .banr-sec button a{
+  font-size:13.5px;
+    
+}
 
 .change-cntnt:after{
     content: '';
     animation: changetext 10s infinite linear;
     color: #00b894;
-    font-size:48px;
+    font-size:46px;
 
 }
 .servic-sec .main-hding h1{
@@ -1211,6 +1219,9 @@
     margin-top: 40px;
 
 }
+ .proces-sec{
+    height: 1600px;
+}
 
 .butn{
     position: absolute;
@@ -1260,15 +1271,15 @@
 
 }
 .bg .banr-sec h2{
-    font-size: 38px;
-    line-height: 66px;
+    font-size: 36px;
+    line-height: 64px;
     font-weight: 400;
     font-family: var(--font-familyy);
 
 }
 .bg .banr-sec button{
     width: 105px;
-    height: 42px;
+    height: 44px;
     background-color: #000000;
     margin-top: 40px;
 /*   clip-path: polygon(100% 0, 97% 63%, 98% 100%, 0% 100%, 3% 66%, 0% 0%);*/
@@ -1281,7 +1292,7 @@
     content: '';
     animation: changetext 10s infinite linear;
     color: #00b894;
-    font-size:38px;
+    font-size:36px;
 
 }
 
@@ -1348,7 +1359,7 @@
 
 }
 .proces-sec{
-    height: 1570px;
+    height: 1600px;
 }
 .About-sec .abt-text h1 {
     color:#000000;

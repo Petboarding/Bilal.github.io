@@ -699,7 +699,7 @@
 
 }
 .bg .banr-sec h2{
-    font-size: 53px;
+    font-size: 54px;
     line-height: 75px;
     font-weight: 400;
     font-family: var(--font-familyy);
@@ -722,7 +722,7 @@
     content: '';
     animation: changetext 10s infinite linear;
     color: #00b894;
-    font-size:53px;
+    font-size:54px;
 
 }
 
@@ -938,7 +938,7 @@
     color: #ADADAD;
 }
 .proces-sec{
-    height: 1600px;
+    height: 1570px;
 }
 .proces-sec .procs-hding h1{
     color:#000000;
@@ -963,7 +963,7 @@
     height: 1200px;
 }
 .About-sec .abt-us .abt-text{
-    margin-top: 20px;
+    margin-top: 25px;
 }
    .About-sec .abt-text h1 {
     color:#000000;
@@ -1029,7 +1029,7 @@
 .customer-sec .satisfd-cstm .side-2s .content{
     background-color:#FFFFFF;
     width: 380PX;
-    height: 240PX;
+    height: 260PX;
     padding: 40PX;
     box-shadow: 10px 10px  #2FC687;
     border-radius: 10PX;
@@ -1188,7 +1188,7 @@
 .customer-sec .satisfd-cstm .side-2s .content{
     background-color:#FFFFFF;
     width: 335px;
-    height: 218PX;
+    height: 255PX;
     padding: 26.5PX;
     box-shadow: 7px 7px  #2FC687;
     border-radius: 10PX;
@@ -1425,7 +1425,7 @@
 .customer-sec .satisfd-cstm .side-2s .content{
     background-color:#FFFFFF;
     width: 280PX;
-    height: 220PX;
+    height: 234PX;
     padding: 24PX;
     box-shadow: 7px 7px  #2FC687;
     border-radius: 10PX;

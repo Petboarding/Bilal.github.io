@@ -12,10 +12,10 @@ body{
 
 :root{
 
-	--cream:#FFFBF3;
-	--white:#FFFFFF;
-	--light-green:#EFF8E;
-	--light-blue:#E6F2FE;
+    --cream:#FFFBF3;
+    --white:#FFFFFF;
+    --light-green:#EFF8E;
+    --light-blue:#E6F2FE;
     --yellow:#FEAE13;
     --text: #ADADAD;
     --font-family: poppins;
@@ -38,9 +38,10 @@ a:hover{
 .bg{
 
 	background-image:url(../images/bg.jpg);
-	background-size:100% 100%;
+	background-size:cover;
 	width: 100%;
-	height: 600px;
+	height: 800px;
+	background-position: center;
 	
 }
 .bg .navbar-brand{

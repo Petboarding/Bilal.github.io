@@ -740,7 +740,8 @@
 .form-sec .form .inpt{
 
     width: 250px;
-    position: relative;
+     position: relative;
+    left: 38px;
 }
 .input-field{
     width: 100%;
@@ -771,6 +772,8 @@
     background-color:var(--background);
     padding-top: 05px;
     margin-top: 14px;
+    position: relative;
+    left: 90px;
 
 }
 .form-sec .form .pick{
@@ -780,6 +783,8 @@
     padding-top: 5px;
     margin-top: 12px;
     margin-left: -1.5px;
+    position: relative;
+    left: 90px;
 }
 .form-sec .form .drop .icn span{
     padding-left: 20px;
@@ -825,6 +830,8 @@
     width: 120px;
     padding: 2px;
     border-radius: 10px;
+    position: relative;
+    left: 93px;
 }
 .form-sec .form .box-1 p{
 
@@ -840,6 +847,8 @@
     width: 120px;
     padding: 2px;
     border-radius: 10px;
+    position: relative;
+    left: 93px;
 }
 .form-sec .form .box-2 p{
 
@@ -856,6 +865,8 @@
     width: 120px;
     padding: 2px;
     border-radius: 10px;
+    position: relative;
+    left: 93px;
 }
 .form-sec .form .box-3 p{
 
@@ -872,6 +883,8 @@
     width: 120px;
     padding: 2px;
     border-radius: 10px;
+    position: relative;
+    left: 93px;
 }
 .form-sec .form .box-4 p{
 
@@ -887,6 +900,8 @@
     width: 120px;
     padding: 2px;
     border-radius: 10px;
+    position: relative;
+    left: 93px;
 }
 .form-sec .form .box-5 p{
 
@@ -1028,7 +1043,7 @@
 
 .customer-sec .satisfd-cstm .side-2s .content{
     background-color:#FFFFFF;
-    width: 380PX;
+    width: 360PX;
     height: 260PX;
     padding: 40PX;
     box-shadow: 10px 10px  #2FC687;
